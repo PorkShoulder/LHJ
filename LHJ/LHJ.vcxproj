@@ -129,11 +129,13 @@
   <ItemGroup>
     <ClInclude Include="framework.h" />
     <ClInclude Include="LHJ.h" />
+    <ClInclude Include="pch.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LHJ.cpp" />
+    <ClCompile Include="pch.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="LHJ.rc" />
